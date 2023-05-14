@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: "font-family: 'Lobster', cursive";
+}
+
+body {
+    background-image: url(https://images5.alphacoders.com/542/542249.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
